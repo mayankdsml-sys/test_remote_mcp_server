@@ -1,0 +1,3 @@
+Pushing on github
+git init
+git status: to check files
